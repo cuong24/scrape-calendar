@@ -1,0 +1,13 @@
+{
+  "name": "scrape-calendar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "cuong24 <s3748840@rmit.edu.vn>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "ics": "^3.7.2",
+    "node-fetch": "^3.3.2"
+  }
+}
